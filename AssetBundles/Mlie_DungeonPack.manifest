@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 2609664224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa91553c990e466bf0527a4103276e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7aa91553c990e466bf0527a4103276e1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Male_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Thin_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Male_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Artifact/Realitybreaker.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Female_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Fat_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Thin_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Artifact/PandoraBox.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Male_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Hulk_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Artifact/GaiaFury.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ValuableGood/Gold_a.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/MadOrb.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Embrasure/Wall_Atlas_Bricks.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ValuableGood/aGold_a.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Fat_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ValuableGood/Gold_b.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Female_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Male_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ZeusCannon.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Female_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Pirate.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Thin_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Female_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/MechSignaller.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ThorHammer.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Thin_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Hulk_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ValuableGood/Gold_c.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Hulk_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Male_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Hulk_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Hulk_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Fat_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Female_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Fat_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/holygernade.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Male_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Hulk_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Embrasure/Wall_Atlas_Metal.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostRing.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Hulk_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Male_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/nothing.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GlitchedRing.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Thrumbo.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Embrasure/Wall_Atlas_Smooth.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Female_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Male_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Thin_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Thin_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Thin_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/SolarRadiance.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/LightBeam.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Fat_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Hulk_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/HandMortar.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Female_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Thin_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/QuestMachine.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ChainVulcan.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Female_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostlyBelt.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Fat_north.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/Embrasure/Wall_Atlas_Concrete.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Thin_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/SolarRadiance2.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/DPQuestIcon.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/InfinityGun.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Hulk_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/EltexRobe/EltexRobe_Fat_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe_Fat_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Female_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Fat_south.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/ShroudOfMadness/EltexRobe_Male_east.png
+- Assets/Data/Mlie.DungeonPack/Textures/DP_Textures/GhostCloak/EltexRobe.png
+Dependencies: []

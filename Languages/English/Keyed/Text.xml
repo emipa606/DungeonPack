@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DuPa.TriggerStart>Start {0}</DuPa.TriggerStart>
+  <DuPa.TriggerQuest>Trigger a quest</DuPa.TriggerQuest>
+  <DuPa.TriggerQuestInfo>Trigger an old Dungeon Pack quest. The quest must have first been researched</DuPa.TriggerQuestInfo>
+</LanguageData>

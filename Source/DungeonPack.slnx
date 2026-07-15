@@ -1,0 +1,66 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="DungeonPack/DungeonPack.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Hediffs/">
+    <File Path="../1.6/Defs/Hediffs/Hediffs.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Faction/">
+    <File Path="../1.6/Defs/Faction/Factions.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/PawnKinds/">
+    <File Path="../1.6/Defs/PawnKinds/Pawnkinds.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Items/">
+    <File Path="../1.6/Defs/Items/Items.xml" />
+  </Folder>
+  <Folder Name="/XML/" />
+  <Folder Name="/XML/1.6/" />
+  <Folder Name="/XML/1.6/Defs/" />
+  <Folder Name="/XML/1.6/Defs/Buildings/">
+    <File Path="../1.6/Defs/Buildings/Buildings.xml" />
+    <File Path="../1.6/Defs/Buildings/Trigger.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Map/">
+    <File Path="../1.6/Defs/Map/DP_MapArea50.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapArea52.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapExcavation.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapGrandWalls.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapMaze.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapNinja.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapPirateBay.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapPrivate.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapSunCult.xml" />
+    <File Path="../1.6/Defs/Map/DP_MapThrumboValley.xml" />
+    <File Path="../1.6/Defs/Map/testMap.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ResearchDefs/">
+    <File Path="../1.6/Defs/ResearchDefs/ResearchProjects.xml" />
+    <File Path="../1.6/Defs/ResearchDefs/ResearchTabs.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Quests/">
+    <File Path="../1.6/Defs/Quests/DP_Area50.xml" />
+    <File Path="../1.6/Defs/Quests/DP_Area52.xml" />
+    <File Path="../1.6/Defs/Quests/DP_Excavation.xml" />
+    <File Path="../1.6/Defs/Quests/DP_GrandWalls.xml" />
+    <File Path="../1.6/Defs/Quests/DP_Maze.xml" />
+    <File Path="../1.6/Defs/Quests/DP_Ninja.xml" />
+    <File Path="../1.6/Defs/Quests/DP_PirateBay.xml" />
+    <File Path="../1.6/Defs/Quests/DP_Private.xml" />
+    <File Path="../1.6/Defs/Quests/DP_SunCult.xml" />
+    <File Path="../1.6/Defs/Quests/DP_TestQuest.xml" />
+    <File Path="../1.6/Defs/Quests/DP_ThrumboValley.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/Language/" />
+  <Folder Name="/XML/Language/English/" />
+  <Folder Name="/XML/Language/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Text.xml" />
+  </Folder>
+</Solution>
