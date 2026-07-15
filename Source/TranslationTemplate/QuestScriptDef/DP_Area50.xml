@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->Nothing to see here civilian. Just a perfectly ordinary deserted mountain.</li>
+  -->
+  <DP_Area50.questDescriptionRules.rulesStrings>
+    <li>questDescription->Nothing to see here civilian. Just a perfectly ordinary deserted mountain.</li>
+  </DP_Area50.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Area 50</li>
+  -->
+  <DP_Area50.questNameRules.rulesStrings>
+    <li>questName -> Area 50</li>
+  </DP_Area50.questNameRules.rulesStrings>
+</LanguageData>

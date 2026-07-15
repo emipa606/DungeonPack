@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->The Ninja Temple, for lack of a better name, is a temple home to a reclusive band of warrior monks. The elite of these warriors are said to have developed a technique that makes them virtually undetectable.\n				\n				Perhaps the secrets to their technique may be found here? Beware that they do not take kindly to visitors.</li>
+  -->
+  <DP_Ninja.questDescriptionRules.rulesStrings>
+    <li>questDescription->The Ninja Temple, for lack of a better name, is a temple home to a reclusive band of warrior monks. The elite of these warriors are said to have developed a technique that makes them virtually undetectable.\n				\n				Perhaps the secrets to their technique may be found here? Beware that they do not take kindly to visitors.</li>
+  </DP_Ninja.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Ninja Temple</li>
+  -->
+  <DP_Ninja.questNameRules.rulesStrings>
+    <li>questName -> Ninja Temple</li>
+  </DP_Ninja.questNameRules.rulesStrings>
+</LanguageData>

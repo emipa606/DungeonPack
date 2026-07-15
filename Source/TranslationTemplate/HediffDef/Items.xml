@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Impermenance -->
+  <DP_CurseOfImpermenance.label>Impermenance</DP_CurseOfImpermenance.label>
+  <!-- EN: The user is invisible to most observers, but their ability to interact within this world is greatly limited. (note: since you don't have Royalty DLC, it just makes the user really hard to damage). -->
+  <DP_CurseOfImpermenance.description>The user is invisible to most observers, but their ability to interact within this world is greatly limited. (note: since you don't have Royalty DLC, it just makes the user really hard to damage).</DP_CurseOfImpermenance.description>
+  <!-- EN: Impermenance -->
+  <DP_CurseOfImpermenance_REQRoyalty.label>Impermenance</DP_CurseOfImpermenance_REQRoyalty.label>
+  <!-- EN: The user is invisible to most observers, but their ability to interact within this world is greatly limited. -->
+  <DP_CurseOfImpermenance_REQRoyalty.description>The user is invisible to most observers, but their ability to interact within this world is greatly limited.</DP_CurseOfImpermenance_REQRoyalty.description>
+  <!-- EN: Ghost Type -->
+  <DP_GhostType.label>Ghost Type</DP_GhostType.label>
+  <!-- EN: This pawn is a ghost type; They can walk through walls in dungeons but get hungry much quicker. -->
+  <DP_GhostType.description>This pawn is a ghost type; They can walk through walls in dungeons but get hungry much quicker.</DP_GhostType.description>
+  <!-- EN: Glitched Reality -->
+  <DP_GlitchedTeleportation.label>Glitched Reality</DP_GlitchedTeleportation.label>
+  <!-- EN: This pawn's position and momentum is unstable. They may randomly teleport to a random nearby location, but their positional instability reduces the effect of attacks against them. -->
+  <DP_GlitchedTeleportation.description>This pawn's position and momentum is unstable. They may randomly teleport to a random nearby location, but their positional instability reduces the effect of attacks against them.</DP_GlitchedTeleportation.description>
+  <!-- EN: Lost Mercy -->
+  <DP_LostMercy.label>Lost Mercy</DP_LostMercy.label>
+  <!-- EN: This pawn has become aware of many more things. -->
+  <DP_LostMercy.description>This pawn has become aware of many more things.</DP_LostMercy.description>
+  <!-- EN: Way of Shadows -->
+  <DP_NinjaEffect.label>Way of Shadows</DP_NinjaEffect.label>
+  <!-- EN: ... -->
+  <DP_NinjaEffect.description>...</DP_NinjaEffect.description>
+  <!-- EN: Way of Shadows -->
+  <DP_NinjaEffect_REQRoyalty.label>Way of Shadows</DP_NinjaEffect_REQRoyalty.label>
+  <!-- EN: ... -->
+  <DP_NinjaEffect_REQRoyalty.description>...</DP_NinjaEffect_REQRoyalty.description>
+</LanguageData>

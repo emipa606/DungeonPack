@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hostile Faction -->
+  <DP_GenericHostile.label>Hostile Faction</DP_GenericHostile.label>
+  <!-- EN: Hostile Generic -->
+  <DP_GenericHostile.fixedName>Hostile Generic</DP_GenericHostile.fixedName>
+  <!-- EN: leader -->
+  <DP_GenericHostile.leaderTitle>leader</DP_GenericHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <DP_GenericHostile.messageDefendersAttacking>Ancient soldiers are attacking.</DP_GenericHostile.messageDefendersAttacking>
+  <!-- EN: enemy -->
+  <DP_GenericHostile.pawnSingular>enemy</DP_GenericHostile.pawnSingular>
+  <!-- EN: enemies -->
+  <DP_GenericHostile.pawnsPlural>enemies</DP_GenericHostile.pawnsPlural>
+  <!-- EN: Tribal Hostiles -->
+  <TribalHostile.label>Tribal Hostiles</TribalHostile.label>
+  <!-- EN: Hostile Tribal Generic -->
+  <TribalHostile.fixedName>Hostile Tribal Generic</TribalHostile.fixedName>
+  <!-- EN: leader -->
+  <TribalHostile.leaderTitle>leader</TribalHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <TribalHostile.messageDefendersAttacking>Ancient soldiers are attacking.</TribalHostile.messageDefendersAttacking>
+  <!-- EN: enemy -->
+  <TribalHostile.pawnSingular>enemy</TribalHostile.pawnSingular>
+  <!-- EN: enemies -->
+  <TribalHostile.pawnsPlural>enemies</TribalHostile.pawnsPlural>
+</LanguageData>

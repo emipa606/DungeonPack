@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->A massive military installation, heavily armed, fortified, and patrolled by a powerful offworld army.\n\nThis is a challenge level.</li>
+  -->
+  <DP_GrandWalls.questDescriptionRules.rulesStrings>
+    <li>questDescription->A massive military installation, heavily armed, fortified, and patrolled by a powerful offworld army.\n\nThis is a challenge level.</li>
+  </DP_GrandWalls.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Grand Walls</li>
+  -->
+  <DP_GrandWalls.questNameRules.rulesStrings>
+    <li>questName -> Grand Walls</li>
+  </DP_GrandWalls.questNameRules.rulesStrings>
+</LanguageData>

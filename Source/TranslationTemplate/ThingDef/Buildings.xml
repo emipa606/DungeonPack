@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Automortar -->
+  <DP_Automortar.label>Automortar</DP_Automortar.label>
+  <!-- EN: An automatic mortar. Not intended for player use. -->
+  <DP_Automortar.description>An automatic mortar. Not intended for player use.</DP_Automortar.description>
+  <!-- EN: Embrasure -->
+  <DP_Embrasure.label>Embrasure</DP_Embrasure.label>
+  <!-- EN: An impassable embrasure. -->
+  <DP_Embrasure.description>An impassable embrasure.</DP_Embrasure.description>
+  <!-- EN: Base Power Unit -->
+  <DP_GenPowerUnit.label>Base Power Unit</DP_GenPowerUnit.label>
+  <!-- EN: Generates power for a faction base. Not intended for player use. -->
+  <DP_GenPowerUnit.description>Generates power for a faction base. Not intended for player use.</DP_GenPowerUnit.description>
+  <!-- EN: Hidden Trap -->
+  <DP_HiddenExplosive.label>Hidden Trap</DP_HiddenExplosive.label>
+  <!-- EN: A hidden trap! (Blue) -->
+  <DP_HiddenExplosive.description>A hidden trap! (Blue)</DP_HiddenExplosive.description>
+  <!-- EN: Hidden Trap -->
+  <DP_HiddenFire.label>Hidden Trap</DP_HiddenFire.label>
+  <!-- EN: A hidden trap! (Red) -->
+  <DP_HiddenFire.description>A hidden trap! (Red)</DP_HiddenFire.description>
+  <!-- EN: Hidden Trap -->
+  <DP_HiddenSpike.label>Hidden Trap</DP_HiddenSpike.label>
+  <!-- EN: A hidden trap! (Green) -->
+  <DP_HiddenSpike.description>A hidden trap! (Green)</DP_HiddenSpike.description>
+  <!-- EN: Minigun Turret -->
+  <DP_MinigunTurret.label>Minigun Turret</DP_MinigunTurret.label>
+  <!-- EN: A factional turret mounted with an automated minigun. Not intended for player use. -->
+  <DP_MinigunTurret.description>A factional turret mounted with an automated minigun. Not intended for player use.</DP_MinigunTurret.description>
+</LanguageData>

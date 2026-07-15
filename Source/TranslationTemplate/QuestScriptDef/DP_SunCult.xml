@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->Like any other remote planet, this planet is home to its fair share of religious nuts and outcasts. Among them is the Holy Order of the Sun, which are known for their reclusiveness and love for the flames. A group of zealous sun cultists has congregated in a fortified jungle compound. These cultists will likely rather burn the entire place down than for you to take their goods.\n\nPrepare for a heated battle.</li>
+  -->
+  <DP_SunCult.questDescriptionRules.rulesStrings>
+    <li>questDescription->Like any other remote planet, this planet is home to its fair share of religious nuts and outcasts. Among them is the Holy Order of the Sun, which are known for their reclusiveness and love for the flames. A group of zealous sun cultists has congregated in a fortified jungle compound. These cultists will likely rather burn the entire place down than for you to take their goods.\n\nPrepare for a heated battle.</li>
+  </DP_SunCult.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Sun Cult Fortress</li>
+  -->
+  <DP_SunCult.questNameRules.rulesStrings>
+    <li>questName -> Sun Cult Fortress</li>
+  </DP_SunCult.questNameRules.rulesStrings>
+</LanguageData>

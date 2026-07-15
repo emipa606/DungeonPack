@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Combat Ready -->
+  <QE_CombatReadiness.label>Combat Ready</QE_CombatReadiness.label>
+  <!-- EN: This pawn is combat ready. -->
+  <QE_CombatReadiness.description>This pawn is combat ready.</QE_CombatReadiness.description>
+  <!-- EN: war trance -->
+  <QE_WarTrance.label>war trance</QE_WarTrance.label>
+  <!-- EN: This pawn is in a war trance. -->
+  <QE_WarTrance.description>This pawn is in a war trance.</QE_WarTrance.description>
+</LanguageData>

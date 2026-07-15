@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: quest machine -->
+  <DP_QuestRedoer.label>quest machine</DP_QuestRedoer.label>
+  <!-- EN: A mysterious machine that allows you to retrigger a past quest. -->
+  <DP_QuestRedoer.description>A mysterious machine that allows you to retrigger a past quest.</DP_QuestRedoer.description>
+  <!-- EN: Summon -->
+  <DP_QuestRedoer.comps.CompUsable.useLabel>Summon</DP_QuestRedoer.comps.CompUsable.useLabel>
+</LanguageData>

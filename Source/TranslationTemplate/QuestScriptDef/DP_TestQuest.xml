@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->A secluded valley hidden deep within the mountains. A large number of thrumbos make it part of their home. For unknown reasons, these naturally pacifistic Thrumbos are extremely aggressive towards outsiders. Still, adventurers seek out this valley for rumors of a legendary artifact hidden within.</li>
+  -->
+  <DP_TestQuest.questDescriptionRules.rulesStrings>
+    <li>questDescription->A secluded valley hidden deep within the mountains. A large number of thrumbos make it part of their home. For unknown reasons, these naturally pacifistic Thrumbos are extremely aggressive towards outsiders. Still, adventurers seek out this valley for rumors of a legendary artifact hidden within.</li>
+  </DP_TestQuest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> TEST MAP</li>
+  -->
+  <DP_TestQuest.questNameRules.rulesStrings>
+    <li>questName -> TEST MAP</li>
+  </DP_TestQuest.questNameRules.rulesStrings>
+</LanguageData>

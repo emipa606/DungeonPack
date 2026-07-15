@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->Area 52 is the only known designation for a secretive military compound heavily patrolled by mechanoids. Who knows what sort of booty is hidden there? If we all storm it, they can't stop us all.</li>
+  -->
+  <DP_Area52.questDescriptionRules.rulesStrings>
+    <li>questDescription->Area 52 is the only known designation for a secretive military compound heavily patrolled by mechanoids. Who knows what sort of booty is hidden there? If we all storm it, they can't stop us all.</li>
+  </DP_Area52.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Area 52</li>
+  -->
+  <DP_Area52.questNameRules.rulesStrings>
+    <li>questName -> Area 52</li>
+  </DP_Area52.questNameRules.rulesStrings>
+</LanguageData>

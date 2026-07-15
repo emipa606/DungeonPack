@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Cannon Artillery -->
+  <DP_ArtilleryPirate.label>Cannon Artillery</DP_ArtilleryPirate.label>
+  <!-- EN: Elite Ninja -->
+  <DP_EliteNinja.label>Elite Ninja</DP_EliteNinja.label>
+  <!-- EN: Fire Cultist -->
+  <DP_FireCultist.label>Fire Cultist</DP_FireCultist.label>
+  <!-- EN: Fire Cult Leader -->
+  <DP_FireCultLeader.label>Fire Cult Leader</DP_FireCultLeader.label>
+  <!-- EN: Madman -->
+  <DP_Madman.label>Madman</DP_Madman.label>
+  <!-- EN: Pirate Captain -->
+  <DP_PirateCaptain.label>Pirate Captain</DP_PirateCaptain.label>
+  <!-- EN: Rocket Artillery -->
+  <DP_RocketPirate.label>Rocket Artillery</DP_RocketPirate.label>
+  <!-- EN: Training Warrior -->
+  <DP_TrainigWarrior.label>Training Warrior</DP_TrainigWarrior.label>
+  <!-- EN: Shaman of the Valley -->
+  <QP_AncientShaman.label>Shaman of the Valley</QP_AncientShaman.label>
+</LanguageData>

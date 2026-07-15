@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sniper rifle bullet -->
+  <DP_Bullet_IG.label>sniper rifle bullet</DP_Bullet_IG.label>
+  <!-- EN: zeus bullet -->
+  <DP_Bullet_ZeusCannon.label>zeus bullet</DP_Bullet_ZeusCannon.label>
+  <!-- EN: cannonball -->
+  <DP_Cannonball.label>cannonball</DP_Cannonball.label>
+  <!-- EN: cannon -->
+  <DP_CannonNoEquip.label>cannon</DP_CannonNoEquip.label>
+  <!-- EN: A weapon representing an enemy mortar. Not intended for player use. -->
+  <DP_CannonNoEquip.description>A weapon representing an enemy mortar. Not intended for player use.</DP_CannonNoEquip.description>
+  <!-- EN: stock -->
+  <DP_CannonNoEquip.tools.stock.label>stock</DP_CannonNoEquip.tools.stock.label>
+  <!-- EN: cannon -->
+  <DP_CannonNoEquip.verbs.Verb_Shoot.label>cannon</DP_CannonNoEquip.verbs.Verb_Shoot.label>
+  <!-- EN: Chain Vulcan -->
+  <DP_ChainVulcan.label>Chain Vulcan</DP_ChainVulcan.label>
+  <!-- EN: An advanced weapon originally designed as a spaceship armament. It has a long warmup phase, but can be fired continuously once charged. -->
+  <DP_ChainVulcan.description>An advanced weapon originally designed as a spaceship armament. It has a long warmup phase, but can be fired continuously once charged.</DP_ChainVulcan.description>
+  <!-- EN: barrels -->
+  <DP_ChainVulcan.tools.barrels.label>barrels</DP_ChainVulcan.tools.barrels.label>
+  <!-- EN: Chain Vulcan -->
+  <DP_ChainVulcan.verbs.Verb_Shoot.label>Chain Vulcan</DP_ChainVulcan.verbs.Verb_Shoot.label>
+  <!-- EN: Ethereal Belt -->
+  <DP_EtherealBelt.label>Ethereal Belt</DP_EtherealBelt.label>
+  <!-- EN: A worn cloak of lost construction. Allows the user to phase through walls at will through some localized quantum tunneling mumble jumble. Greatly consumes the user's energy reserves to do so.\n\n[Note: requires Vanilla Expanded to work.] -->
+  <DP_EtherealBelt.description>A worn cloak of lost construction. Allows the user to phase through walls at will through some localized quantum tunneling mumble jumble. Greatly consumes the user's energy reserves to do so.
+
+[Note: requires Vanilla Expanded to work.]</DP_EtherealBelt.description>
+  <!-- EN: Ethereal Cloak -->
+  <DP_EtherealCloak.label>Ethereal Cloak</DP_EtherealCloak.label>
+  <!-- EN: An ancient, threadbear cloak constructed by a long forgotten civilization. The wearer of the cloak becomes invisible, but their ability to interact with this plane of reality becomes limited. -->
+  <DP_EtherealCloak.description>An ancient, threadbear cloak constructed by a long forgotten civilization. The wearer of the cloak becomes invisible, but their ability to interact with this plane of reality becomes limited.</DP_EtherealCloak.description>
+  <!-- EN: Fire Cloak -->
+  <DP_FireCultRobe.label>Fire Cloak</DP_FireCultRobe.label>
+  <!-- EN: A full-body garment worn by fire cultists. It gives immense protection of heat. Not intended for player use (unless recruited a fire cultist). -->
+  <DP_FireCultRobe.description>A full-body garment worn by fire cultists. It gives immense protection of heat. Not intended for player use (unless recruited a fire cultist).</DP_FireCultRobe.description>
+  <!-- EN: Land's Wrath -->
+  <DP_GaiaFury.label>Land's Wrath</DP_GaiaFury.label>
+  <!-- EN: A mysterious archotech device that pulsates a primal frequency. Can be activated without limit to drive all nearby untamed animals mad. While mostly harmless to humans, the pulse may also irritate nearby humans temporairly. -->
+  <DP_GaiaFury.description>A mysterious archotech device that pulsates a primal frequency. Can be activated without limit to drive all nearby untamed animals mad. While mostly harmless to humans, the pulse may also irritate nearby humans temporairly.</DP_GaiaFury.description>
+  <!-- EN: Use {0_label} -->
+  <DP_GaiaFury.comps.CompUsable.useLabel>Use {0_label}</DP_GaiaFury.comps.CompUsable.useLabel>
+  <!-- EN: Glitched Belt -->
+  <DP_GlitchedRing.label>Glitched Belt</DP_GlitchedRing.label>
+  <!-- EN: A belt of Ultratech origin that allows the user to warp into locations at well. Without its original owner, the ring has glitched however, causing the user to randomly teleport from place to place. -->
+  <DP_GlitchedRing.description>A belt of Ultratech origin that allows the user to warp into locations at well. Without its original owner, the ring has glitched however, causing the user to randomly teleport from place to place.</DP_GlitchedRing.description>
+  <!-- EN: Holy Hand Grenade of Antioch -->
+  <DP_HolyHandGrenade.label>Holy Hand Grenade of Antioch</DP_HolyHandGrenade.label>
+  <!-- EN: ...And Saint Attila raised the hand grenade up on high, saying, "O LORD, bless this Thy hand grenade, that with it Thou mayest blow Thine enemies to tiny bits, in Thy mercy." And the LORD did grin, and the people did feast upon the lambs and sloths and carp and anchovies and orangutans and breakfast cereals, and fruit bats and large chu... [At this point, the friar is urged by Brother Maynard to "skip a bit, brother"]... And the LORD spake, saying, "First shalt thou take out the Holy Pin. Then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out! Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it." -->
+  <DP_HolyHandGrenade.description>...And Saint Attila raised the hand grenade up on high, saying, "O LORD, bless this Thy hand grenade, that with it Thou mayest blow Thine enemies to tiny bits, in Thy mercy." And the LORD did grin, and the people did feast upon the lambs and sloths and carp and anchovies and orangutans and breakfast cereals, and fruit bats and large chu... [At this point, the friar is urged by Brother Maynard to "skip a bit, brother"]... And the LORD spake, saying, "First shalt thou take out the Holy Pin. Then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out! Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it."</DP_HolyHandGrenade.description>
+  <!-- EN: throw frag grenade -->
+  <DP_HolyHandGrenade.verbs.throw_frag_grenade.label>throw frag grenade</DP_HolyHandGrenade.verbs.throw_frag_grenade.label>
+  <!-- EN: Infinity Gun -->
+  <DP_InfinityGun.label>Infinity Gun</DP_InfinityGun.label>
+  <!-- EN: Standard issue rifle of ultratech snipers. Even without AI combat modules, this rifle can shoot extremely far. -->
+  <DP_InfinityGun.description>Standard issue rifle of ultratech snipers. Even without AI combat modules, this rifle can shoot extremely far.</DP_InfinityGun.description>
+  <!-- EN: stock -->
+  <DP_InfinityGun.tools.stock.label>stock</DP_InfinityGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DP_InfinityGun.tools.barrel.label>barrel</DP_InfinityGun.tools.barrel.label>
+  <!-- EN: Infinity Gun -->
+  <DP_InfinityGun.verbs.Verb_Shoot.label>Infinity Gun</DP_InfinityGun.verbs.Verb_Shoot.label>
+  <!-- EN: psychic insanity lance -->
+  <DP_InsanityLanceUnequip.label>psychic insanity lance</DP_InsanityLanceUnequip.label>
+  <!-- EN: A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <DP_InsanityLanceUnequip.description>A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight.</DP_InsanityLanceUnequip.description>
+  <!-- EN: charge -->
+  <DP_InsanityLanceUnequip.comps.CompApparelReloadable.chargeNoun>charge</DP_InsanityLanceUnequip.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DP_InsanityLanceUnequip.comps.CompApparelReloadable.cooldownGerund>on cooldown</DP_InsanityLanceUnequip.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic insanity lance -->
+  <DP_InsanityLanceUnequip.verbs.psychic_insanity_lance.label>psychic insanity lance</DP_InsanityLanceUnequip.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <DP_InsanityLanceUnequip.verbs.psychic_insanity_lance.invalidTargetPawn>psychic insanity immune</DP_InsanityLanceUnequip.verbs.psychic_insanity_lance.invalidTargetPawn>
+  <!-- EN: lightbeam -->
+  <DP_LightBeam.label>lightbeam</DP_LightBeam.label>
+  <!-- EN: A powerful ultratech weapon that fires an extremely rapid, concentrated stream of bullets at a target. -->
+  <DP_LightBeam.description>A powerful ultratech weapon that fires an extremely rapid, concentrated stream of bullets at a target.</DP_LightBeam.description>
+  <!-- EN: stock -->
+  <DP_LightBeam.tools.stock.label>stock</DP_LightBeam.tools.stock.label>
+  <!-- EN: barrel -->
+  <DP_LightBeam.tools.barrel.label>barrel</DP_LightBeam.tools.barrel.label>
+  <!-- EN: lightbeam -->
+  <DP_LightBeam.verbs.Verb_Shoot.label>lightbeam</DP_LightBeam.verbs.Verb_Shoot.label>
+  <!-- EN: lightbeam -->
+  <DP_LightBeamBullet.label>lightbeam</DP_LightBeamBullet.label>
+  <!-- EN: Mech Signaller -->
+  <DP_MechSignalArtifact.label>Mech Signaller</DP_MechSignalArtifact.label>
+  <!-- EN: An ancient military targeting device that signals an orbital platform to deploy a random squad of friendly mechanoids.\n		\n		The device can used indefinitely, though its age causes it to require constant maintenance. -->
+  <DP_MechSignalArtifact.description>An ancient military targeting device that signals an orbital platform to deploy a random squad of friendly mechanoids.
+		
+		The device can used indefinitely, though its age causes it to require constant maintenance.</DP_MechSignalArtifact.description>
+  <!-- EN: charge -->
+  <DP_MechSignalArtifact.comps.CompApparelReloadable.chargeNoun>charge</DP_MechSignalArtifact.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DP_MechSignalArtifact.comps.CompApparelReloadable.cooldownGerund>on cooldown</DP_MechSignalArtifact.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: mech signaller -->
+  <DP_MechSignalArtifact.verbs.mech_signaller.label>mech signaller</DP_MechSignalArtifact.verbs.mech_signaller.label>
+  <!-- EN: Ninja Garment -->
+  <DP_NinjaRobe.label>Ninja Garment</DP_NinjaRobe.label>
+  <!-- EN: A robe worn by Ninjas. Not intended for player use. -->
+  <DP_NinjaRobe.description>A robe worn by Ninjas. Not intended for player use.</DP_NinjaRobe.description>
+  <!-- EN: Orb of Madness -->
+  <DP_OrbOfMadness.label>Orb of Madness</DP_OrbOfMadness.label>
+  <!-- EN: A cursed orb touched by the void. Peering into the orb at someone causes even the psychically immunue to go insane.\n		However, the orb has been known to sometimes inflict the same madness on its user. The orb occasionally needs to be refuelled with exotic materials. -->
+  <DP_OrbOfMadness.description>A cursed orb touched by the void. Peering into the orb at someone causes even the psychically immunue to go insane.
+		However, the orb has been known to sometimes inflict the same madness on its user. The orb occasionally needs to be refuelled with exotic materials.</DP_OrbOfMadness.description>
+  <!-- EN: charge -->
+  <DP_OrbOfMadness.comps.CompApparelReloadable.chargeNoun>charge</DP_OrbOfMadness.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DP_OrbOfMadness.comps.CompApparelReloadable.cooldownGerund>on cooldown</DP_OrbOfMadness.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic insanity lance -->
+  <DP_OrbOfMadness.verbs.psychic_insanity_lance.label>psychic insanity lance</DP_OrbOfMadness.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <DP_OrbOfMadness.verbs.psychic_insanity_lance.invalidTargetPawn>psychic insanity immune</DP_OrbOfMadness.verbs.psychic_insanity_lance.invalidTargetPawn>
+  <!-- EN: Pandora's Box -->
+  <DP_PandoraBox.label>Pandora's Box</DP_PandoraBox.label>
+  <!-- EN: What's inside the box? -->
+  <DP_PandoraBox.description>What's inside the box?</DP_PandoraBox.description>
+  <!-- EN: Use {0_label} -->
+  <DP_PandoraBox.comps.CompUsable.useLabel>Use {0_label}</DP_PandoraBox.comps.CompUsable.useLabel>
+  <!-- EN: holy grenade -->
+  <DP_ProjHolyGrenade.label>holy grenade</DP_ProjHolyGrenade.label>
+  <!-- EN: sunfire -->
+  <DP_ProjSunfire.label>sunfire</DP_ProjSunfire.label>
+  <!-- EN: Rare Good -->
+  <DP_RareGood.label>Rare Good</DP_RareGood.label>
+  <!-- EN: A valuable but fragile item. Each can be sold for a lot of money. -->
+  <DP_RareGood.description>A valuable but fragile item. Each can be sold for a lot of money.</DP_RareGood.description>
+  <!-- EN: Realitybreaker -->
+  <DP_RealityBreaker.label>Realitybreaker</DP_RealityBreaker.label>
+  <!-- EN: An artifact imbued with the fury of Gaia. Causes all untamed animals to go into a berserk state. Can be activated infinitely. -->
+  <DP_RealityBreaker.description>An artifact imbued with the fury of Gaia. Causes all untamed animals to go into a berserk state. Can be activated infinitely.</DP_RealityBreaker.description>
+  <!-- EN: Use {0_label} -->
+  <DP_RealityBreaker.comps.CompUsable.useLabel>Use {0_label}</DP_RealityBreaker.comps.CompUsable.useLabel>
+  <!-- EN: RocketLauncher -->
+  <DP_RocketNoEquip.label>RocketLauncher</DP_RocketNoEquip.label>
+  <!-- EN: A weapon representing a rocket complex. Not intended for player use. -->
+  <DP_RocketNoEquip.description>A weapon representing a rocket complex. Not intended for player use.</DP_RocketNoEquip.description>
+  <!-- EN: stock -->
+  <DP_RocketNoEquip.tools.stock.label>stock</DP_RocketNoEquip.tools.stock.label>
+  <!-- EN: barrel -->
+  <DP_RocketNoEquip.tools.barrel.label>barrel</DP_RocketNoEquip.tools.barrel.label>
+  <!-- EN: RocketLauncher -->
+  <DP_RocketNoEquip.verbs.Verb_Shoot.label>RocketLauncher</DP_RocketNoEquip.verbs.Verb_Shoot.label>
+  <!-- EN: Madness Cloak -->
+  <DP_ShroudOfMadness.label>Madness Cloak</DP_ShroudOfMadness.label>
+  <!-- EN: A cloak that allows you to phase through walls through some localized quantum tunneling mumble jumble. Walking through walls however drastically increases the user's hunger. -->
+  <DP_ShroudOfMadness.description>A cloak that allows you to phase through walls through some localized quantum tunneling mumble jumble. Walking through walls however drastically increases the user's hunger.</DP_ShroudOfMadness.description>
+  <!-- EN: Blessing of the Sun -->
+  <DP_SolarGuidance.label>Blessing of the Sun</DP_SolarGuidance.label>
+  <!-- EN: This pawn has the blessing of a mysterious power. They can shoot powerful flames from their hands. -->
+  <DP_SolarGuidance.description>This pawn has the blessing of a mysterious power. They can shoot powerful flames from their hands.</DP_SolarGuidance.description>
+  <!-- EN: barrels -->
+  <DP_SolarGuidance.tools.barrels.label>barrels</DP_SolarGuidance.tools.barrels.label>
+  <!-- EN: Blessing of the Sun -->
+  <DP_SolarGuidance.verbs.Verb_Shoot.label>Blessing of the Sun</DP_SolarGuidance.verbs.Verb_Shoot.label>
+  <!-- EN: Radiance of the Sun -->
+  <DP_SolarRadiance.label>Radiance of the Sun</DP_SolarRadiance.label>
+  <!-- EN: A massive weapon capable of blanketing entire towns with flames. -->
+  <DP_SolarRadiance.description>A massive weapon capable of blanketing entire towns with flames.</DP_SolarRadiance.description>
+  <!-- EN: barrels -->
+  <DP_SolarRadiance.tools.barrels.label>barrels</DP_SolarRadiance.tools.barrels.label>
+  <!-- EN: Radiance of the Sun -->
+  <DP_SolarRadiance.verbs.Verb_Shoot.label>Radiance of the Sun</DP_SolarRadiance.verbs.Verb_Shoot.label>
+  <!-- EN: Thorhammer -->
+  <DP_ThorHammer.label>Thorhammer</DP_ThorHammer.label>
+  <!-- EN: A warhammer with an embedded ultratech device that summons lightning strikes on impact. The warhammer shields the user from some of the impact of the flames. -->
+  <DP_ThorHammer.description>A warhammer with an embedded ultratech device that summons lightning strikes on impact. The warhammer shields the user from some of the impact of the flames.</DP_ThorHammer.description>
+  <!-- EN: handle -->
+  <DP_ThorHammer.tools.handle.label>handle</DP_ThorHammer.tools.handle.label>
+  <!-- EN: head -->
+  <DP_ThorHammer.tools.head.label>head</DP_ThorHammer.tools.head.label>
+  <!-- EN: Zeus Cannon -->
+  <DP_ZeusCannon.label>Zeus Cannon</DP_ZeusCannon.label>
+  <!-- EN: An advanced ultratech weapon capable of launching a rapid volley of terrifying lightning bolts. -->
+  <DP_ZeusCannon.description>An advanced ultratech weapon capable of launching a rapid volley of terrifying lightning bolts.</DP_ZeusCannon.description>
+  <!-- EN: grip -->
+  <DP_ZeusCannon.tools.grip.label>grip</DP_ZeusCannon.tools.grip.label>
+  <!-- EN: Zeus Cannon -->
+  <DP_ZeusCannon.verbs.Verb_Shoot.label>Zeus Cannon</DP_ZeusCannon.verbs.Verb_Shoot.label>
+</LanguageData>

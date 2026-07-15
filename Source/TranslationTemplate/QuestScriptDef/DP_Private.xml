@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription-> A private island owned by an offworld MegaCorp executive. Though the executive only works in middle management, his villa still is likely to contain a great deal of valuables, arts, and treasures hidden from prying eyes.\n\nThe island is fortified and guarded by a small mercenary contingent tasked with fending off raider rabble like yourself.</li>
+  -->
+  <DP_Private.questDescriptionRules.rulesStrings>
+    <li>questDescription-> A private island owned by an offworld MegaCorp executive. Though the executive only works in middle management, his villa still is likely to contain a great deal of valuables, arts, and treasures hidden from prying eyes.\n\nThe island is fortified and guarded by a small mercenary contingent tasked with fending off raider rabble like yourself.</li>
+  </DP_Private.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Private Island</li>
+  -->
+  <DP_Private.questNameRules.rulesStrings>
+    <li>questName -> Private Island</li>
+  </DP_Private.questNameRules.rulesStrings>
+</LanguageData>

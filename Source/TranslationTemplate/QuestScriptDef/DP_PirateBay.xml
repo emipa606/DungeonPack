@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription-> Among the planet's numerous raider clans, the pirate Beerbeard and his floatilla have made a name for themselves for their piracy of the waters of the planet. Though Beerbeard's ships spend most of their time out at sea, we have discovered a potential land home base for his ships. If we were to raid their ships while they are still in harbor, we may be able to pirate their piracy for ourselves.</li>
+  -->
+  <DP_PirateBay.questDescriptionRules.rulesStrings>
+    <li>questDescription-> Among the planet's numerous raider clans, the pirate Beerbeard and his floatilla have made a name for themselves for their piracy of the waters of the planet. Though Beerbeard's ships spend most of their time out at sea, we have discovered a potential land home base for his ships. If we were to raid their ships while they are still in harbor, we may be able to pirate their piracy for ourselves.</li>
+  </DP_PirateBay.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> The Pirate Bay</li>
+  -->
+  <DP_PirateBay.questNameRules.rulesStrings>
+    <li>questName -> The Pirate Bay</li>
+  </DP_PirateBay.questNameRules.rulesStrings>
+</LanguageData>

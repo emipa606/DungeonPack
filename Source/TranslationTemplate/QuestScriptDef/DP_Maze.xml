@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription->A massive sprawling network of tunnels hidden deep within the Kretan Mountains said to be constructed by an ancient civilization.\nLegends are told of travelers wandering eternally within its walls, yet many still seek these ruins for their rumored path to a "Golden Land."\n\nWe have discovered a possible entrance to a section of the Labryinth. The tunnels appear to be half-collasped.\nWe will need to be cautious for both traps and enemies hidden within the Labryinth.\n\n(Note: the Labryinth is intended to be traversed by digging through the collasped rocks, which lead to other sections of the maze.)</li>
+  -->
+  <DP_Maze.questDescriptionRules.rulesStrings>
+    <li>questDescription->A massive sprawling network of tunnels hidden deep within the Kretan Mountains said to be constructed by an ancient civilization.\nLegends are told of travelers wandering eternally within its walls, yet many still seek these ruins for their rumored path to a "Golden Land."\n\nWe have discovered a possible entrance to a section of the Labryinth. The tunnels appear to be half-collasped.\nWe will need to be cautious for both traps and enemies hidden within the Labryinth.\n\n(Note: the Labryinth is intended to be traversed by digging through the collasped rocks, which lead to other sections of the maze.)</li>
+  </DP_Maze.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Labryinthian</li>
+  -->
+  <DP_Maze.questNameRules.rulesStrings>
+    <li>questName -> Labryinthian</li>
+  </DP_Maze.questNameRules.rulesStrings>
+</LanguageData>
